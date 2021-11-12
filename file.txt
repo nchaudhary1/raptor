@@ -1,0 +1,1 @@
+Craps is a game played with two dices, where a person rolls those two dice and the outcome of the game is decided by the numbers rolled on those dice.
